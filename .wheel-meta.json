@@ -1,0 +1,22 @@
+{
+  "wheel_id": 511,
+  "structure": "umbrella",
+  "slug": "rollerdoorsbrisbane-151",
+  "project": "roller-door-repairs-brisbane-beginner-guide-f7a7da982ffa492f41f",
+  "parent_t1_ref": "rollerdoorsbrisbane-010",
+  "node_role": "buffer",
+  "money_target": "rollerdoorsbrisbane.com.au",
+  "primary_kw": "roller door repairs brisbane beginner guide",
+  "intended_url": "https://sitesau.github.io/rollerdoorsbrisbane-151/",
+  "tier": "T2",
+  "writeback_nonce": "55cfa3a739865351",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/roller-door-repairs-brisbane-010/",
+      "anchor": "Roller Door Repairs Brisbane: Practical Fault And Cost Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
